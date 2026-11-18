@@ -1,0 +1,6 @@
+{
+  "name": "ReconAI — Agentic Payment Reconciliation",
+  "description": "Agentic AI-based payment reconciliation, anomaly detection, policy RAG investigation, and human-in-the-loop resolution platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
